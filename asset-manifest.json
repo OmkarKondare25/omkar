@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omkar/static/css/main.e6c13ad2.css",
+    "main.js": "/omkar/static/js/main.438296b9.js",
+    "static/js/787.dea42714.chunk.js": "/omkar/static/js/787.dea42714.chunk.js",
+    "index.html": "/omkar/index.html",
+    "main.e6c13ad2.css.map": "/omkar/static/css/main.e6c13ad2.css.map",
+    "main.438296b9.js.map": "/omkar/static/js/main.438296b9.js.map",
+    "787.dea42714.chunk.js.map": "/omkar/static/js/787.dea42714.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.438296b9.js"
+  ]
+}
